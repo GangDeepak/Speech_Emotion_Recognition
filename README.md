@@ -4,6 +4,9 @@
 The project aims to develop a robust speech-emotion recognition system capable of accurately classifying the emotional states conveyed in spoken language. By analyzing the acoustic features of speech signals, the system should be able to categorize emotions such as happiness, sadness, anger, fear, and more.
 
 ## DataSet Link :- https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
+There are a set of 200 target words were spoken in the carrier phrase "Say the word _' by two actresses (aged 26 and 64 years) and recordings were made of the set portraying each of seven emotions (anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral). There are 2800 data points (audio files) in total.
+
+The dataset is organised such that each of the two female actor and their emotions are contain within its own folder. And within that, all 200 target words audio file can be found. The format of the audio file is a WAV format
 ## Description
 This project uses advanced signal processing and machine learning techniques to construct a reliable speech-emotion recognition system. The primary goal is to analyze the acoustic characteristics of speech signals, enabling precise classification of emotions expressed in spoken language.
 
