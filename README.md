@@ -1,38 +1,45 @@
 # Speech_Emotion_Recognition
-Speech Emotion Recognition
-Watch the video
 
-Problem Statement:
+## Problem Statement:
 The project aims to develop a robust speech-emotion recognition system capable of accurately classifying the emotional states conveyed in spoken language. By analyzing the acoustic features of speech signals, the system should be able to categorize emotions such as happiness, sadness, anger, fear, and more.
 
-Description
+## Description
 This project uses advanced signal processing and machine learning techniques to construct a reliable speech-emotion recognition system. The primary goal is to analyze the acoustic characteristics of speech signals, enabling precise classification of emotions expressed in spoken language.
 
-Project Objectives:
+## Project Objectives:
 
-Emotion Classification: Develop a sophisticated speech emotion recognition model capable of accurately classifying emotions conveyed in spoken language, including happiness, sadness, anger, fear, and more.
+### Emotion Classification: 
+Develop a sophisticated speech emotion recognition model capable of accurately classifying emotions conveyed in spoken language, including happiness, sadness, anger, fear, and more.
 
-Acoustic Feature Analysis: Utilize signal processing techniques to extract relevant acoustic features from speech signals, forming the basis for emotion classification.
+### Acoustic Feature Analysis: 
+Utilize signal processing techniques to extract relevant acoustic features from speech signals, forming the basis for emotion classification.
 
-Machine Learning Integration: Implement machine learning algorithms to process acoustic features and build a robust model for emotion recognition.
+### Machine Learning Integration: 
+Implement machine learning algorithms to process acoustic features and build a robust model for emotion recognition.
 
-Performance Evaluation: Employ appropriate evaluation metrics to assess the model's accuracy and effectiveness in recognizing various emotions from speech signals.
+### Performance Evaluation: 
+Employ appropriate evaluation metrics to assess the model's accuracy and effectiveness in recognizing various emotions from speech signals.
 
-Key Deliverables:
+## Key Deliverables:
 
-Well-Trained Model: A well-trained speech emotion recognition model capable of accurately categorizing emotions in spoken language.
+### Well-Trained Model: 
+A well-trained speech emotion recognition model capable of accurately categorizing emotions in spoken language.
 
-Comprehensive Documentation: Detailed documentation detailing the extraction of acoustic features, model architecture, and evaluation methods.
+### Comprehensive Documentation: 
+Detailed documentation detailing the extraction of acoustic features, model architecture, and evaluation methods.
 
-Complete Codebase: A comprehensive codebase, including signal processing scripts, machine learning algorithms, and related tools used in model development.
+### Complete Codebase: 
+A comprehensive codebase, including signal processing scripts, machine learning algorithms, and related tools used in model development.
 
-User Guide: A user guide provides clear instructions for effectively utilizing the speech-emotion recognition system.
+### User Guide: 
+A user guide provides clear instructions for effectively utilizing the speech-emotion recognition system.
 
-Evaluation Reports: Evaluation reports showcasing the model's accuracy, performance, and capability to recognize different emotions in speech.
+### Evaluation Reports: 
+Evaluation reports showcasing the model's accuracy, performance, and capability to recognize different emotions in speech.
 
 This project addresses the challenge of recognizing emotions from speech, offering a valuable tool for applications such as sentiment analysis, virtual assistants, and emotion-aware systems.
 
-Project Highlights
+## Project Highlights
 Throughout this project, we developed a robust speech-emotion recognition system. The key milestones and achievements are summarized below:
 
 Data Collection and Preprocessing:
