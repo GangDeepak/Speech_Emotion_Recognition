@@ -42,31 +42,31 @@ This project addresses the challenge of recognizing emotions from speech, offeri
 ## Project Highlights
 Throughout this project, we developed a robust speech-emotion recognition system. The key milestones and achievements are summarized below:
 
-Data Collection and Preprocessing:
+### Data Collection and Preprocessing:
 
 Acquired diverse speech datasets containing various emotional expressions.
 
 Conducted data preprocessing, including noise reduction, audio normalization, and feature extraction.
 
-Feature Extraction and Signal Processing:
+### Feature Extraction and Signal Processing:
 
 Utilized signal processing techniques such as Fourier Transform and Mel-frequency cepstral coefficients (MFCCs) to extract relevant acoustic features from speech signals.
 
 Processed audio waves to enhance feature representation and prepare the data for machine learning algorithms.
 
-Machine Learning Model:
+### Machine Learning Model:
 
 Implemented a deep learning model, specifically Convolutional Neural Networks (CNNs), for speech emotion recognition.
 
 Trained the model on the preprocessed speech data, optimizing its architecture for optimal performance.
 
-Model Performance:
+### Model Performance:
 
 Evaluated the model using metrics such as accuracy, precision, recall, and F1-score to measure its effectiveness in recognizing different emotions.
 
 Achieved significant accuracy in emotion classification, showcasing the model's capability to distinguish between various emotional states in spoken language.
 
-Real-time Emotion Recognition:
+### Real-time Emotion Recognition:
 
 Developed a real-time emotion recognition module, allowing the model to analyze emotions from live audio input.
 
