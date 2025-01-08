@@ -3,6 +3,7 @@
 ## Problem Statement:
 The project aims to develop a robust speech-emotion recognition system capable of accurately classifying the emotional states conveyed in spoken language. By analyzing the acoustic features of speech signals, the system should be able to categorize emotions such as happiness, sadness, anger, fear, and more.
 
+## DataSet Link :- https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 ## Description
 This project uses advanced signal processing and machine learning techniques to construct a reliable speech-emotion recognition system. The primary goal is to analyze the acoustic characteristics of speech signals, enabling precise classification of emotions expressed in spoken language.
 
